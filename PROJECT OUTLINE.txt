@@ -1,18 +1,18 @@
 PROJECT TITLE:
+i-Help
 e-Donate
 i-Donate
 e-Donate MO
-i-Help
-e-Sponsor
+i-Sponsor
 
 Hindi mo na ginagamit? Tara, e-Donate! Coz it's better to give than to receive.
-May extra? Sobra sobra? e-Donate na!
+May extra? Sobra sobra? mag-Sponsor na!
 
 The application will help to connect beneficiary to Donor/Sponsor and vice versa.
 Beneficiary: Specific Individual, Foundation or Organization
 Donor/Sponsor: Specific Invidual, Foundation or Organization
 
-1. Hub for Donations / Sponshorships
+1. Hub for Donations / Sponsorships
 
 DONOR:
 	* In times of calamity
