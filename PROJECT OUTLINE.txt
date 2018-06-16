@@ -1,0 +1,98 @@
+PROJECT TITLE:
+e-Donate
+i-Donate
+e-Donate MO
+i-Help
+e-Sponsor
+
+Hindi mo na ginagamit? Tara, e-Donate! Coz it's better to give than to receive.
+May extra? Sobra sobra? e-Donate na!
+
+The application will help to connect beneficiary to Donor/Sponsor and vice versa.
+Beneficiary: Specific Individual, Foundation or Organization
+Donor/Sponsor: Specific Invidual, Foundation or Organization
+
+1. Hub for Donations / Sponshorships
+
+DONOR:
+	* In times of calamity
+	* For different foundations or organizations
+
+	* Items
+		- School Supplies
+		- Furnitures
+		- Food items
+		- Basic necessities (Clothing etc.)
+		- Personal Items
+
+	* Monetary Value
+		-
+
+SPONSOR:
+	* Education
+		- Scholarship for Students
+
+	* Funds
+		- Help funds farmers (capital) just like cropital.com
+
+	* Property
+		- 
+
+	* Event
+		- 
+
+****************************************************************************
+USER ACCOUNTS AND TRANSACTIONS:
+****************************************************************************
+	Donor (Send Donation to Beneficiary)
+		Create Account
+			Level 1 User Verification
+		Post Item/Property to Donate (Post Only)
+			Select Category
+			Select Expected Beneficiary
+
+		Select Individual/Organization/Foundation
+			Select Category to donate
+			Contact the Beneficiary
+		Allowed to rate beneficiary
+
+	Sponsor (Look for Beneficiary)
+		Create Account
+			Level 1 User Verification
+		Find Beneficiary
+		Contact Beneficiary
+		Allowed to rate beneficiary
+
+	Beneficiary (Receiver)
+		Create Account
+			Level 2 and 3 User Verification and Validation
+		Post Story
+		Receive (Receive Donation/Sponsorship)
+		Allowed to rate Donor/Sponsor but needs to provide the reason
+	
+	System
+		Home Page
+			Explains the description of the app
+			Displays the recent activities/campaign
+			Dashboard
+				Top Donors and Sponsors
+				Total successful aid
+			NGO & Government Partners 
+		Menu
+			About Us
+			Contact Us
+			What we Do
+			Become a Donor
+			Become a Beneficiary
+
+		Transactions
+			* Make sure that guests can view recent activities but with limited access
+			* When an individual, foundation or organization registers as a beneficiary
+				- The application should do Level 2 to Level 3 verification and validation
+			* When a Donor / Sponsor register,
+				- The application should do Level 1 account verification and validation
+				- The application should allow the Donor / Sponsor to choose if 
+					he/she/they want/s to become Anonymous
+			* App should record all user's history/logs
+			
+		
