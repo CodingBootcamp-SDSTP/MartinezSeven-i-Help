@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<web-app>
+	<display-name>Servlet Asset Collection++</display-name>
+	<description>Three days application development</description>
+	<servlet>
+		<servlet-name>Assets</servlet-name>
+		<servlet-class>AssetsServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Assets</servlet-name>
+		<url-pattern>/assets</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>Locations</servlet-name>
+		<servlet-class>LocationsServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Locations</servlet-name>
+		<url-pattern>/locations</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>Persons</servlet-name>
+		<servlet-class>PersonsServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Persons</servlet-name>
+		<url-pattern>/persons</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>Search</servlet-name>
+		<servlet-class>SearchServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Search</servlet-name>
+		<url-pattern>/search</url-pattern>
+	</servlet-mapping>
+</web-app>

@@ -1,0 +1,380 @@
+08-Jun-2018 15:31:44.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+08-Jun-2018 15:31:44.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+08-Jun-2018 15:31:44.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+08-Jun-2018 15:31:44.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+08-Jun-2018 15:31:44.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+08-Jun-2018 15:31:44.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+08-Jun-2018 15:31:44.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files (x86)\Java\jdk1.8.0_45\jre
+08-Jun-2018 15:31:44.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_45-b15
+08-Jun-2018 15:31:44.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jun-2018 15:31:44.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 15:31:44.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 15:31:44.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\conf\logging.properties
+08-Jun-2018 15:31:44.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2018 15:31:44.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2018 15:31:44.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2018 15:31:44.358 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Jun-2018 15:31:44.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 15:31:44.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 15:31:44.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\temp
+08-Jun-2018 15:31:44.361 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jdk1.8.0_45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Seagate Software\NOTES\;C:\Program Files (x86)\Seagate Software\NOTES\DATA\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Java\jdk1.8.0_45\bin\;.]
+08-Jun-2018 15:31:46.680 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 15:31:47.049 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 15:31:47.109 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 15:31:47.117 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 15:31:47.134 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 4841 ms
+08-Jun-2018 15:31:47.414 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Jun-2018 15:31:47.430 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+08-Jun-2018 15:31:47.515 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\appdevmain]
+08-Jun-2018 15:31:49.629 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [137] milliseconds.
+08-Jun-2018 15:31:49.785 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\appdevmain] has finished in [2,270] ms
+08-Jun-2018 15:31:49.796 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\docs]
+08-Jun-2018 15:31:49.922 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\docs] has finished in [126] ms
+08-Jun-2018 15:31:49.927 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\examples]
+08-Jun-2018 15:31:54.825 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\examples] has finished in [4,898] ms
+08-Jun-2018 15:31:54.837 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\host-manager]
+08-Jun-2018 15:31:55.004 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\host-manager] has finished in [171] ms
+08-Jun-2018 15:31:55.020 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\manager]
+08-Jun-2018 15:31:55.147 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\manager] has finished in [127] ms
+08-Jun-2018 15:31:55.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\ROOT]
+08-Jun-2018 15:31:55.235 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\ROOT] has finished in [80] ms
+08-Jun-2018 15:31:55.255 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 15:31:55.334 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 15:31:55.344 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 8204 ms
+08-Jun-2018 18:46:54.833 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 18:46:55.012 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 18:46:55.039 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Jun-2018 18:46:55.171 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 18:46:55.173 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 18:46:55.175 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 18:46:55.176 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 18:58:19.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+08-Jun-2018 18:58:19.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+08-Jun-2018 18:58:19.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+08-Jun-2018 18:58:19.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+08-Jun-2018 18:58:19.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+08-Jun-2018 18:58:19.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+08-Jun-2018 18:58:19.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files (x86)\Java\jdk1.8.0_45\jre
+08-Jun-2018 18:58:19.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_45-b15
+08-Jun-2018 18:58:19.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jun-2018 18:58:19.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 18:58:19.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 18:58:19.140 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\conf\logging.properties
+08-Jun-2018 18:58:19.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2018 18:58:19.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2018 18:58:19.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2018 18:58:19.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Jun-2018 18:58:19.147 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 18:58:19.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet
+08-Jun-2018 18:58:19.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\temp
+08-Jun-2018 18:58:19.150 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jdk1.8.0_45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Seagate Software\NOTES\;C:\Program Files (x86)\Seagate Software\NOTES\DATA\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Java\jdk1.8.0_45\bin\;.]
+08-Jun-2018 18:58:19.326 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 18:58:19.355 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 18:58:19.366 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 18:58:19.369 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 18:58:19.371 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 672 ms
+08-Jun-2018 18:58:19.415 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Jun-2018 18:58:19.416 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+08-Jun-2018 18:58:19.433 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\appdevmain]
+08-Jun-2018 18:58:20.520 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 18:58:20.613 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\appdevmain] has finished in [1,180] ms
+08-Jun-2018 18:58:20.615 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\docs]
+08-Jun-2018 18:58:21.087 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 18:58:21.092 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\docs] has finished in [477] ms
+08-Jun-2018 18:58:21.093 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\examples]
+08-Jun-2018 18:58:21.850 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 18:58:21.908 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\examples] has finished in [815] ms
+08-Jun-2018 18:58:21.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\host-manager]
+08-Jun-2018 18:58:22.396 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 18:58:22.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\host-manager] has finished in [490] ms
+08-Jun-2018 18:58:22.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\manager]
+08-Jun-2018 18:58:22.869 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 18:58:22.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\manager] has finished in [465] ms
+08-Jun-2018 18:58:22.876 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\ROOT]
+08-Jun-2018 18:58:23.330 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 18:58:23.335 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\02 b APP DEV\appdev-servlet\webapps\ROOT] has finished in [460] ms
+08-Jun-2018 18:58:23.340 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 18:58:23.354 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 18:58:23.359 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3987 ms
+08-Jun-2018 19:03:05.186 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 19:03:05.264 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 19:03:05.291 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Jun-2018 19:03:05.375 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 19:03:05.379 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 19:03:05.382 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 19:03:05.383 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 22:44:49.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+08-Jun-2018 22:44:49.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+08-Jun-2018 22:44:49.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+08-Jun-2018 22:44:49.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+08-Jun-2018 22:44:49.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+08-Jun-2018 22:44:49.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Jun-2018 22:44:49.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+08-Jun-2018 22:44:49.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+08-Jun-2018 22:44:49.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jun-2018 22:44:49.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 22:44:49.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 22:44:49.346 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\conf\logging.properties
+08-Jun-2018 22:44:49.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2018 22:44:49.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2018 22:44:49.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2018 22:44:49.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Jun-2018 22:44:49.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 22:44:49.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 22:44:49.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\temp
+08-Jun-2018 22:44:49.377 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Tasm 1.4\Tasm;C:\Program Files\Java\jdk1.8.0_121\bin\;C:\Program Files\nodejs\;D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY1\sqlite-tools-win32-x86-3230100\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\neo\AppData\Roaming\npm;.]
+08-Jun-2018 22:44:50.862 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 22:44:52.049 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 22:44:52.299 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 22:44:52.299 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 22:44:52.315 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 6802 ms
+08-Jun-2018 22:44:53.049 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Jun-2018 22:44:53.065 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+08-Jun-2018 22:44:53.299 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp]
+08-Jun-2018 22:45:03.456 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 22:45:04.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp] has finished in [10,876] ms
+08-Jun-2018 22:45:04.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs]
+08-Jun-2018 22:45:05.268 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 22:45:05.284 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs] has finished in [1,062] ms
+08-Jun-2018 22:45:05.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples]
+08-Jun-2018 22:45:12.675 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 22:45:12.863 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples] has finished in [7,563] ms
+08-Jun-2018 22:45:12.863 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager]
+08-Jun-2018 22:45:13.941 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 22:45:13.988 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager] has finished in [1,125] ms
+08-Jun-2018 22:45:14.003 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager]
+08-Jun-2018 22:45:15.628 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 22:45:15.644 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager] has finished in [1,641] ms
+08-Jun-2018 22:45:15.644 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT]
+08-Jun-2018 22:45:16.582 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 22:45:16.613 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT] has finished in [969] ms
+08-Jun-2018 22:45:16.628 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 22:45:17.691 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 22:45:17.707 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 25398 ms
+08-Jun-2018 23:09:55.021 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:09:55.396 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:09:55.630 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Jun-2018 23:09:59.661 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:09:59.739 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:09:59.896 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:09:59.958 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:10:21.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+08-Jun-2018 23:10:21.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+08-Jun-2018 23:10:21.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+08-Jun-2018 23:10:21.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+08-Jun-2018 23:10:21.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+08-Jun-2018 23:10:21.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Jun-2018 23:10:21.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+08-Jun-2018 23:10:21.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+08-Jun-2018 23:10:21.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jun-2018 23:10:21.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:10:21.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\conf\logging.properties
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\temp
+08-Jun-2018 23:10:21.224 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Tasm 1.4\Tasm;C:\Program Files\Java\jdk1.8.0_121\bin\;C:\Program Files\nodejs\;D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY1\sqlite-tools-win32-x86-3230100\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\neo\AppData\Roaming\npm;.]
+08-Jun-2018 23:10:21.786 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:10:22.552 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:10:22.583 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:10:22.583 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:10:22.583 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3774 ms
+08-Jun-2018 23:10:22.724 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Jun-2018 23:10:22.724 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+08-Jun-2018 23:10:22.755 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp]
+08-Jun-2018 23:10:25.474 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:10:25.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp] has finished in [2,891] ms
+08-Jun-2018 23:10:25.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs]
+08-Jun-2018 23:10:26.771 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:10:26.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs] has finished in [1,141] ms
+08-Jun-2018 23:10:26.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples]
+08-Jun-2018 23:10:29.959 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:10:30.099 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples] has finished in [3,312] ms
+08-Jun-2018 23:10:30.099 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager]
+08-Jun-2018 23:10:30.959 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:10:30.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager] has finished in [875] ms
+08-Jun-2018 23:10:30.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager]
+08-Jun-2018 23:10:32.334 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:10:32.350 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager] has finished in [1,376] ms
+08-Jun-2018 23:10:32.350 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT]
+08-Jun-2018 23:10:33.084 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:10:33.100 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT] has finished in [750] ms
+08-Jun-2018 23:10:33.100 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:10:33.131 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:10:33.146 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 10552 ms
+08-Jun-2018 23:13:51.953 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:13:52.328 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:13:52.453 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Jun-2018 23:13:54.656 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:13:54.750 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:13:54.766 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:13:54.781 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:14:16.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+08-Jun-2018 23:14:16.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+08-Jun-2018 23:14:16.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+08-Jun-2018 23:14:16.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+08-Jun-2018 23:14:16.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+08-Jun-2018 23:14:16.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Jun-2018 23:14:16.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+08-Jun-2018 23:14:16.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+08-Jun-2018 23:14:16.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jun-2018 23:14:16.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:14:16.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:14:16.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\conf\logging.properties
+08-Jun-2018 23:14:16.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2018 23:14:16.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2018 23:14:16.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2018 23:14:16.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Jun-2018 23:14:16.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:14:16.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:14:16.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\temp
+08-Jun-2018 23:14:16.826 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Tasm 1.4\Tasm;C:\Program Files\Java\jdk1.8.0_121\bin\;C:\Program Files\nodejs\;D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY1\sqlite-tools-win32-x86-3230100\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\neo\AppData\Roaming\npm;.]
+08-Jun-2018 23:14:17.280 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:14:17.514 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:14:17.545 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:14:17.561 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:14:17.561 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2418 ms
+08-Jun-2018 23:14:17.701 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Jun-2018 23:14:17.701 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+08-Jun-2018 23:14:17.733 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp]
+08-Jun-2018 23:14:20.186 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:14:20.311 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp] has finished in [2,578] ms
+08-Jun-2018 23:14:20.311 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs]
+08-Jun-2018 23:14:21.155 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:14:21.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs] has finished in [859] ms
+08-Jun-2018 23:14:21.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples]
+08-Jun-2018 23:14:23.436 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:14:23.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples] has finished in [2,594] ms
+08-Jun-2018 23:14:23.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager]
+08-Jun-2018 23:14:24.780 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:14:24.796 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager] has finished in [1,032] ms
+08-Jun-2018 23:14:24.796 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager]
+08-Jun-2018 23:14:26.249 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:14:26.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager] has finished in [1,453] ms
+08-Jun-2018 23:14:26.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT]
+08-Jun-2018 23:14:27.030 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:14:27.046 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT] has finished in [797] ms
+08-Jun-2018 23:14:27.061 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:14:27.077 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:14:27.093 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 9528 ms
+08-Jun-2018 23:19:35.587 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:19:37.525 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:19:37.744 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Jun-2018 23:19:44.275 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:19:44.760 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:19:45.260 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:19:45.463 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:20:57.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+08-Jun-2018 23:20:57.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+08-Jun-2018 23:20:57.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+08-Jun-2018 23:20:57.459 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+08-Jun-2018 23:20:57.459 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+08-Jun-2018 23:20:57.459 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Jun-2018 23:20:57.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+08-Jun-2018 23:20:57.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+08-Jun-2018 23:20:57.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jun-2018 23:20:57.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:20:57.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:20:57.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\conf\logging.properties
+08-Jun-2018 23:20:57.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2018 23:20:57.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2018 23:20:57.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2018 23:20:57.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Jun-2018 23:20:57.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:20:57.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:20:57.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\temp
+08-Jun-2018 23:20:57.506 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Tasm 1.4\Tasm;C:\Program Files\Java\jdk1.8.0_121\bin\;C:\Program Files\nodejs\;D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY1\sqlite-tools-win32-x86-3230100\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\neo\AppData\Roaming\npm;.]
+08-Jun-2018 23:21:00.881 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:21:02.084 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:21:02.209 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:21:02.209 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:21:02.209 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 21533 ms
+08-Jun-2018 23:21:02.428 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Jun-2018 23:21:02.428 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+08-Jun-2018 23:21:02.459 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp]
+08-Jun-2018 23:21:11.553 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:21:12.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp] has finished in [9,532] ms
+08-Jun-2018 23:21:12.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs]
+08-Jun-2018 23:21:13.053 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:21:13.069 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs] has finished in [1,063] ms
+08-Jun-2018 23:21:13.069 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples]
+08-Jun-2018 23:21:18.257 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:21:18.475 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples] has finished in [5,406] ms
+08-Jun-2018 23:21:18.475 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager]
+08-Jun-2018 23:21:21.382 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:21:21.397 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager] has finished in [2,922] ms
+08-Jun-2018 23:21:21.397 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager]
+08-Jun-2018 23:21:24.741 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:21:24.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager] has finished in [3,360] ms
+08-Jun-2018 23:21:24.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT]
+08-Jun-2018 23:21:25.523 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:21:25.554 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT] has finished in [797] ms
+08-Jun-2018 23:21:25.569 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:21:26.523 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:21:26.538 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 24318 ms
+08-Jun-2018 23:24:32.188 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:24:32.313 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:24:32.422 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Jun-2018 23:24:33.844 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:24:33.891 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:24:33.969 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:24:34.141 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:25:24.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+08-Jun-2018 23:25:24.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+08-Jun-2018 23:25:24.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+08-Jun-2018 23:25:24.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+08-Jun-2018 23:25:24.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+08-Jun-2018 23:25:24.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Jun-2018 23:25:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_121\jre
+08-Jun-2018 23:25:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_121-b13
+08-Jun-2018 23:25:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jun-2018 23:25:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:25:24.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:25:24.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\conf\logging.properties
+08-Jun-2018 23:25:24.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jun-2018 23:25:24.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Jun-2018 23:25:24.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jun-2018 23:25:24.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Jun-2018 23:25:24.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:25:24.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet
+08-Jun-2018 23:25:24.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\temp
+08-Jun-2018 23:25:24.825 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Tasm 1.4\Tasm;C:\Program Files\Java\jdk1.8.0_121\bin\;C:\Program Files\nodejs\;D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY1\sqlite-tools-win32-x86-3230100\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\neo\AppData\Roaming\npm;.]
+08-Jun-2018 23:25:25.372 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:25:25.716 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:25:25.778 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:25:25.794 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jun-2018 23:25:25.794 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2988 ms
+08-Jun-2018 23:25:25.919 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Jun-2018 23:25:25.919 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+08-Jun-2018 23:25:25.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp]
+08-Jun-2018 23:25:29.872 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:25:30.138 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\assetapp] has finished in [4,172] ms
+08-Jun-2018 23:25:30.169 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs]
+08-Jun-2018 23:25:31.779 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:25:31.794 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\docs] has finished in [1,610] ms
+08-Jun-2018 23:25:31.794 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples]
+08-Jun-2018 23:25:35.498 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:25:35.685 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\examples] has finished in [3,891] ms
+08-Jun-2018 23:25:35.685 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager]
+08-Jun-2018 23:25:36.841 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:25:36.904 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\host-manager] has finished in [1,219] ms
+08-Jun-2018 23:25:36.998 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager]
+08-Jun-2018 23:25:39.201 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:25:39.295 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\manager] has finished in [2,297] ms
+08-Jun-2018 23:25:39.373 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT]
+08-Jun-2018 23:25:40.826 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jun-2018 23:25:40.857 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\MARTINEZ_SEVEN_DICT_L1_DATABASE_DAY5\appdev-servlet\webapps\ROOT] has finished in [1,484] ms
+08-Jun-2018 23:25:40.873 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:25:40.920 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:25:40.951 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 15163 ms
+08-Jun-2018 23:27:57.698 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:27:59.807 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:28:00.136 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Jun-2018 23:28:08.089 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:28:08.370 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+08-Jun-2018 23:28:08.620 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Jun-2018 23:28:08.699 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

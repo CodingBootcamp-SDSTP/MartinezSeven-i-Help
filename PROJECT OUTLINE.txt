@@ -69,6 +69,7 @@ USER ACCOUNTS AND TRANSACTIONS:
 		Post Story
 		Receive (Receive Donation/Sponsorship)
 		Allowed to rate Donor/Sponsor but needs to provide the reason
+		Beneficiary can only see or view the status of his request and the dashboard of the application like news article and so on. However, he/she/they will have no access to the information of the Donor/Sponsor and to the post of other beneficiary currently waiting for a Donor/Sponsor.
 	
 	System
 		Home Page
@@ -96,3 +97,9 @@ USER ACCOUNTS AND TRANSACTIONS:
 			* App should record all user's history/logs
 			
 		
+
+References:
+http://1000projects.org/e-donate-java-mysql-project.html
+https://www.patreon.com/
+http://www.worldvision.com/
+https://project-e.eu/donate/
