@@ -2,15 +2,73 @@
 <html>
 	<head><title>iHelp - Index</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- <meta name="viewport" content="initial-scale=1,maximum-scale=1" /> -->
 		<link rel="shortcut icon" type="image/png" href="./img/favicon.png"/>
 		<link rel="stylesheet" type="text/css" href="style.css"/>
 		<script src="functions.js"></script>
+		<script>
+			window.onload = function() {
+				document.getElementById('menulink').onclick = function() {
+					var menu = document.getElementById('menu');
+					if(menu.className != 'shownmenu') {
+						menu.className = 'shownmenu';
+					}
+					else {
+						menu.className = 'hiddenmenu';
+					}
+				}
+			}
+		</script>
 	</head>
 	<body>
 		<div id="header">
-			<img src="./img/logobanner.png" alt="iHelp Logo">
-			<!-- <h1>"Let's make the world a better place."</h1> -->
+			<div id="banner">
+				<div id="logo"></div>
+				<p>"Let's make the world a better place."</p>
+			</div>
+			<div id="menubutton"><a id="menulink" href="#">MENU</a></div>
+			<div id="menu" class="hiddenmenu">
+				<div class="menuitem">
+					<a class="ahome" href="#">
+						<div class="home"></div>
+						<!-- #45543A -->
+						<span>Home</span>
+					</a>
+				</div>
+				<div class="menuitem">
+					<a class="ahelp" href="#">
+						<div class="help"></div>
+						<span>Ask help</span>
+					</a>
+				</div>
+				<div class="menuitem">
+					<a class="ainvolved" href="#">
+						<div class="involved"></div>
+						<span>Get Involved</span>
+					</a>
+				</div>
+				<div class="menuitem">
+					<a class="adonate" href="#">
+						<div class="donate"></div>
+						<span>Donate</span>
+					</a>
+				</div>
+				<div class="menuitem">
+					<a class="asponsor" href="#">
+						<div class="sponsor"></div>
+						<span>Sponsor</span>
+					</a>
+				</div>
+				<div class="menuitem">
+					<a class="acontactus" href="#">
+						<div class="contactus"></div>
+						<span>Contact us</span>
+					</a>
+				</div>
+			</div>
+			<div class="clear"></div>
 		</div>
+		<div id="headerline"></div>
 		<!-- <div id="sidebar">
 			<p><a href="#" id="pic1" class="button">Falls</a></p>
 			<p><a href="#" id="pic2" class="button">Lake</a></p>
