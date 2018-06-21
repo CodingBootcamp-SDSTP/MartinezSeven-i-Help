@@ -229,7 +229,93 @@ body {
 	.acontactus:hover span {
 		color: #fff968;
 	}
+
+	.asignin .signin {
+		background-image: url("./img/icons/si-black.png");
+		background-repeat: no-repeat;
+		-webkit-background-size: contain;
+		-moz-background-size: contain;
+		-o-background-size: contain;
+		background-size: contain;
+		width: 25px;
+		height: 25px;
+		display: inline;
+		float: left;
+		padding-top: 1px;
+		margin-top: 10px;
+		margin-bottom: 5px;
+	}
+
+	.signindivider {
+		width: 2px;
+		height: 50px;
+		margin-top: 15px;
+		margin-left: -5px;
+		margin-right: -5px;
+		border-left: solid 2px #85a568;
+	}
+
+	.asignin:hover .signin {
+		background-image: url("./img/icons/si-dark.png");
+	}
+
+	.asignin .stext {
+		display: inline;
+		float: left;
+		width: 70px;
+		margin-top: 10px;
+		margin-bottom: 5px;
+		padding-top: 7px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		text-align: left;
+		color: black;
+		font-family: sans-serif;
+		font-size: 12px;
+	}
+
+	.asignin:hover .stext {
+		color: #fff968;
+	}
 	
+	.aregister .register {
+		background-image: url("./img/icons/reg-black.png");
+		background-repeat: no-repeat;
+		-webkit-background-size: contain;
+		-moz-background-size: contain;
+		-o-background-size: contain;
+		background-size: contain;
+		width: 25px;
+		height: 25px;
+		display: inline;
+		clear: both;
+		float: left;
+		padding-top: 1px;
+		margin-bottom: 5px;
+	}
+
+	.aregister:hover .register {
+		background-image: url("./img/icons/reg-dark.png");
+	}
+
+	.aregister .rtext {
+		display: inline;
+		float: left;
+		width: 70px;
+		margin-bottom: 5px;
+		padding-top: 7px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		text-align: left;
+		color: black;
+		font-family: sans-serif;
+		font-size: 12px;
+	}
+
+	.aregister:hover .rtext {
+		color: #fff968;
+	}
+
 	.menuitem + .menuitem {
 		/*border-left: 1px solid white;*/
 		/*margin-left: 8px;*/
@@ -277,11 +363,11 @@ body {
 }
 
 #content {
-	/*margin: 64px 0 32px 220px;*/
-	margin: 104px 0 32px 0px;
+	margin: 0 0 0 0;
 	height: 75vh;
 	padding: 10px 25px 10px 25px;
 	overflow-y: hidden;
+	/*border: solid 1px black;*/
 }
 
 #content > p {
